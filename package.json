@@ -1,6 +1,6 @@
 {
-  "name": "template-react-component-library",
-  "version": "0.0.1",
+  "name": "@Silpa-KV/template-react-component-library",
+  "version": "0.0.2",
   "description": "A simple template for a custom React component library",
   "scripts": {
     "rollup": "rollup -c"
@@ -27,4 +27,3 @@
     "tslib": "^2.4.1"
   }
 }
-
