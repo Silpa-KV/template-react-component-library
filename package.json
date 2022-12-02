@@ -1,6 +1,6 @@
 {
   "name": "@Silpa-KV/template-react-component-library",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "A simple template for a custom React component library",
   "scripts": {
     "rollup": "rollup -c"
@@ -24,6 +24,7 @@
   ],
   "types": "dist/index.d.ts",
   "dependencies": {
+    "postcss": "^8.4.19",
     "rollup-plugin-import-css": "^3.1.0",
     "rollup-plugin-postcss": "^4.0.2",
     "tslib": "^2.4.1"
